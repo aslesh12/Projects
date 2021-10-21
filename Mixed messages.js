@@ -4,7 +4,7 @@ function generateRandomNumber(num) {
   }
   
   const collectiveWisdom = {
-    colorInfo: ['red', 'green', 'amber', 'silver'],
+    colInfo: ['red', 'green', 'amber', 'silver'],
     fortuneOutput: ['stop', 'go', 'wait', 'carcolor', 'great luck'],
     advice: ['go out and eat', 'not read this', 'play more', 'trust no one']
   }
